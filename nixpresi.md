@@ -1,6 +1,6 @@
 ---
 title: Nix
-author: Max Konter, Christoph Piechula
+author: Maximilian Konter, Christoph Piechula
 abstract: Reproducible developer environments
 ...
 
